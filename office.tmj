@@ -715,10 +715,7 @@
          "tileheight":32,
          "tilewidth":32
         }, 
-        //{
-        // "firstgid":2956,
-        // "source":"TopDownHouse_Green.tsx"
-        //}, 
+        
         {
          "firstgid":3190,
          "source":"Water Cooler.tsx"
