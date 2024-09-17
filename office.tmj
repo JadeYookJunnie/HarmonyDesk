@@ -479,6 +479,23 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":64,
+                 "id":22,
+                 "name":"to-conference",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"conference.tmj#from-office"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":672.435236310217,
+                 "y":64.4814345777823
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -561,7 +578,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
