@@ -488,7 +488,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"coffee.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
