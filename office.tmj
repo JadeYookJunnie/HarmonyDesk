@@ -478,7 +478,7 @@
                 {
                  "height":64,
                  "id":22,
-                 "name":"to-conference",
+                 "name":"to-coffee",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -491,6 +491,23 @@
                  "width":32,
                  "x":672.435236310217,
                  "y":64.4814345777823
+                }, 
+                {
+                 "height":32,
+                 "id":23,
+                 "name":"from-coffee",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":637.397129186603,
+                 "y":93.0909090909092
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -573,7 +590,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
