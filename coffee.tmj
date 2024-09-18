@@ -295,7 +295,7 @@
                  "y":96
                 }, 
                 {
-                 "height":96,
+                 "height":71.3578636857631,
                  "id":22,
                  "name":"to-office",
                  "properties":[
@@ -312,7 +312,7 @@
                  "y":0
                 }, 
                 {
-                 "height":32,
+                 "height":20.8712932774414,
                  "id":23,
                  "name":"from-office",
                  "properties":[
@@ -325,8 +325,40 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":640,
-                 "y":128
+                 "x":634.435646638721,
+                 "y":94.6138798323242
+                }, 
+                {
+                 "height":321.98152460798,
+                 "id":24,
+                 "name":"jitsiCoffeeSpace",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Coffee House"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":701.32929669306,
+                 "x":32.878279770222,
+                 "y":93.3796770687781
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -445,7 +477,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
