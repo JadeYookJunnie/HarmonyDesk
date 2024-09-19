@@ -556,6 +556,22 @@
                  "width":50.3333333333333,
                  "x":621.166666666667,
                  "y":33.1666666666667
+                }, 
+                {
+                 "height":52.9999666666667,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Meeting Room",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":56.3333,
+                 "x":744.166683333333,
+                 "y":40.83335
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -638,7 +654,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
