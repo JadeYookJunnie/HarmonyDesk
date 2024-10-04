@@ -719,19 +719,6 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":32,
-         "firstgid":5012,
-         "image":"tilesets\/floors.png",
-         "imageheight":2048,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"floors",
-         "spacing":0,
-         "tilecount":2048,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
